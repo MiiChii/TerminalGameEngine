@@ -48,5 +48,6 @@ cmake -S . -B build
 cmake --build build
 ./build/untitled
 ```
+**The screen will be black**, this is your time to size the terminal and font-size (See note below). Press enter to start the game.
 
 **Please keep in mind:** If your terminal width cannot display the entire width of the game and adds line breaks instead, you will not see a coherent image. I recommend temporarily sizing your terminal font-size to 1 (easily done with ctrl+shift+- in kitty) and pulling it wider if that happens to you (for my smaller monitor, I have to have the terminal be wider than my screen. This could be true for you as well). 
